@@ -6,8 +6,8 @@ Using this code, you can create a program that will track the rate of the curren
 
 First you need to create a bot and get your chat id in telegram
 
-[Create Telegram Bot](https://core.telegram.org/bots#3-how-do-i-create-a-bot)
-[Get Chat Id](https://t.me/ShowJsonBot?info)
+* [Create Telegram Bot](https://core.telegram.org/bots#3-how-do-i-create-a-bot)
+* [Get Chat Id](https://t.me/ShowJsonBot?info)
 
 Add this data to config.py
 
