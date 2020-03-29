@@ -18,7 +18,7 @@ class Currency:
     def __init__(self):
         self.differece = 500
         self.BTC_DOLLAR = 'https://www.google.com/search?q=btc+in+dollars&oq=btc+in+dolla&aqs=chrome.1.69i57j0l7.11710j1j4&sourceid=chrome&ie=UTF-8'
-        self.headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36'}
+        self.headers = {'User-Agent': 'there is your user agent, go to google and write "my user agent"'}
         self.current_currency = float(self.get_currency().replace('.', '').replace(',', '.'))
 
     def get_currency(self):
