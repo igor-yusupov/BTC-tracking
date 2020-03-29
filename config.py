@@ -1,0 +1,2 @@
+BOT_TOKEN = "YOUR TOKEN"
+admin_id = "YOUR CHAT ID"
